@@ -1,4 +1,3 @@
-# MP_ventilation
 Simple script to compute the ventilator parameters (VT, rr, I:E ratio)  that minimize mechanical power for a given alveolar minute ventilation. There is no user interface. Users should specify the following parameters diretly in the script:
 
 E = 10  #total respiratory elastance in units of mbar / L
@@ -13,4 +12,3 @@ Vminrange = [5,6,7,8,9,10,11,12,13,14,15] # range of minute ventilation to be ex
 The range of tidal volumes that are tested for their effect of mechanical power can also be specified, if needed:
 
 VTrange = np.arange(VD + 0.05, 1.6, 0.0005) # range of tidal volumes to be explored
-    
