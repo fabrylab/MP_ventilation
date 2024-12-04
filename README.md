@@ -1,4 +1,4 @@
-MPventilation.py is a simple Python script to compute the ventilator parameters (VT, rr, I:E ratio) that minimize mechanical power for a given alveolar minute ventilation. There is no user interface. Users should specify the following parameters directly in the script:
+MPsimulation.py is a simple Python script to compute the ventilator parameters (VT, rr, I:E ratio) that minimize mechanical power for a given alveolar minute ventilation. There is no user interface. Users should specify the following parameters directly in the script:
 
 ``` python
 E = 10  # total respiratory elastance in units of mbar / L
