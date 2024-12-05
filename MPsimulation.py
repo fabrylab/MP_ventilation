@@ -3,9 +3,10 @@
 Created on Wed Aug 28 09:36:21 2024
 @author: Ben Fabry
 To cite this software in publications, please cite:
-
 Ben Fabry https://github.com/fabrylab/MP_ventilation
-
+You can find more information in the following publication:
+B Fabry, "How to minimize mechanical power during controlled mechanical ventilation"
+Int Care Med Exp 2024, DOI 10.1186/s40635-024-00699-4 
 """
 
 import numpy as np
