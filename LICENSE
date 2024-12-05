@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+To cite this software in publications, please cite:
+Ben Fabry https://github.com/fabrylab/MP_ventilation
+You can find more information in the following publication:
+B Fabry, "How to minimize mechanical power during controlled mechanical ventilation"
+Int Care Med Exp 2024, DOI 10.1186/s40635-024-00699-4 
